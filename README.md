@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GFS-0508
-- 👀 I’m interested in  computadores em geral
-- 🌱 Atualmente estou aprendendo linguagem de programação assembly
-- 💞️ Estou procurando colaborar em ... 
-- 📫 How to reach me ...
+- 👀 I am currently interested in computers in general 
+- 🌱 I'm focusing on assembly language
+- 🤞 I know several programming languages, such as: C#/C++; Python; among others
 
 <!---
 GFS-0508/GFS-0508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
