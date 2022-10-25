@@ -1,9 +1,13 @@
-## Profile:
+<h1 align=center>
+:grinning: Profile :heart:
+</h1>
 
 
-- 👋 Hi, I’m @GFS-0508
-- 👀 I am currently interested in computers in general
-- 🌱 I'm focusing on low level languages 
+- 👋 Olá eu sou @GFS-0508
+- :computer::heart: Estou interssado em tudo que seja relacionado com tecnologia/computadores
+- :exclamation: Atualmente estou focado na linguagem Python
+
+
 
 ![](https://github-readme-stats.vercel.app/api?username=GFS-0508&theme=blue-green)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GFS-0508&theme=blue-green)
