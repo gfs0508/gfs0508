@@ -36,7 +36,7 @@
 </div>
 
 <h2 >
-  As minhas Estatísticass:
+  As minhas Estatísticas:
 </h2>
 
 <div>
