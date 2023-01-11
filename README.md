@@ -1,6 +1,4 @@
-<h1 align=left>
-:grinning: Olá devs, o meu nome é GFS-0508! :heart:
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=%F0%9F%98%80+Ol%C3%A1+devs%2C+o+meu+nome+%C3%A9+GFS-0508%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 > Estou interessado em todo o tipo de ferramentas relacionadas a tecnologia desde o mais básico ao mais avançado.
 
