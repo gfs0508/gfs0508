@@ -2,7 +2,7 @@
 
 > Estou interessado em todo o tipo de ferramentas relacionadas a tecnologia desde o mais básico ao mais avançado.
 
-:v: Atualmente estou desenvolvendo aplicaões usando Python.
+:v: Atualmente estou desenvolvendo aplicações usando Python.
 
 :ok_hand: De vez em quando foco-me em construir o meu própio SO do **zero**.
 
