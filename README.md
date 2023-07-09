@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&multiline=true&width=850&height=61&lines=%F0%9F%98%80+Ol%C3%A1+devs%2C+o+meu+nome+%C3%A9+GFS-0508%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&multiline=true&width=850&height=61&lines=%F0%9F%98%80+Ol%C3%A1+devs%2C+o+meu+nome+%C3%A9+gfs0508%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 > Estou interessado em todo o tipo de ferramentas relacionadas a tecnologia desde o mais básico ao mais avançado.
 
@@ -39,6 +39,6 @@
 
 <div>
 
-![](https://github-readme-stats.vercel.app/api?username=GFS-0508&theme=blue-green)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GFS-0508&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=gfs0508&theme=blue-green)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gfs0508&theme=blue-green)
 </div>
 
